@@ -21,7 +21,7 @@ Este es un proyecto de ecommerce básico que se utiliza para el curso de React. 
 2. Abre una terminal en el directorio del proyecto.
 3. Ejecuta el comando npm install para instalar las dependencias.
 4. Ejecuta el comando npm run dev para iniciar la aplicación.
-5. Abre tu navegador y navega a http://localhost:5173para ver la aplicación en acción.
+5. Abre tu navegador y navega a http://localhost:5173 para ver la aplicación en acción.
 
 ## Configuración de Firebase
 
